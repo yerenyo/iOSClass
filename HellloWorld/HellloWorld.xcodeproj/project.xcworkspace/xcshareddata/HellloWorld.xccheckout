@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92F286E0-2474-426D-A1AE-ECB3634BA2C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HellloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</key>
+		<string>https://github.com/yerenyo/iOSClass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HellloWorld/HellloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yerenyo/iOSClass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSClass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
