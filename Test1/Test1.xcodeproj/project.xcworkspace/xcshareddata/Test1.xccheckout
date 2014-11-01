@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>92F286E0-2474-426D-A1AE-ECB3634BA2C9</string>
+	<string>5AFE525F-832A-4FC8-A5A0-8AC05425DACE</string>
 	<key>IDESourceControlProjectName</key>
-	<string>HellloWorld</string>
+	<string>Test1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</key>
 		<string>https://github.com/yerenyo/iOSClass.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HellloWorld/HellloWorld.xcodeproj</string>
+	<string>Test1/Test1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>CA0C6C6448F57C1D1AD27DE343A269FE44D48DFC</key>
