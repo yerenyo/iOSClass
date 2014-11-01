@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  HellloWorld
+//  Test1
 //
-//  Created by 郭栋 on 14-10-18.
+//  Created by 郭栋 on 14-10-25.
 //  Copyright (c) 2014年 郭栋. All rights reserved.
 //
 
@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"%@",@"application:didFinishLaunchingWithOptions:");
+    // Override point for customization after application launch.
     return YES;
 }
 

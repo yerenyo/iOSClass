@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4691B46C19F25B42001007DB"
-               BuildableName = "HellloWorld.app"
-               BlueprintName = "HellloWorld"
-               ReferencedContainer = "container:HellloWorld.xcodeproj">
+               BlueprintIdentifier = "4698C62419FB7ED400CB9C83"
+               BuildableName = "Test1.app"
+               BlueprintName = "Test1"
+               ReferencedContainer = "container:Test1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4691B48519F25B42001007DB"
-               BuildableName = "HellloWorldTests.xctest"
-               BlueprintName = "HellloWorldTests"
-               ReferencedContainer = "container:HellloWorld.xcodeproj">
+               BlueprintIdentifier = "4698C63D19FB7ED400CB9C83"
+               BuildableName = "Test1Tests.xctest"
+               BlueprintName = "Test1Tests"
+               ReferencedContainer = "container:Test1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4691B48519F25B42001007DB"
-               BuildableName = "HellloWorldTests.xctest"
-               BlueprintName = "HellloWorldTests"
-               ReferencedContainer = "container:HellloWorld.xcodeproj">
+               BlueprintIdentifier = "4698C63D19FB7ED400CB9C83"
+               BuildableName = "Test1Tests.xctest"
+               BlueprintName = "Test1Tests"
+               ReferencedContainer = "container:Test1.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4691B46C19F25B42001007DB"
-            BuildableName = "HellloWorld.app"
-            BlueprintName = "HellloWorld"
-            ReferencedContainer = "container:HellloWorld.xcodeproj">
+            BlueprintIdentifier = "4698C62419FB7ED400CB9C83"
+            BuildableName = "Test1.app"
+            BlueprintName = "Test1"
+            ReferencedContainer = "container:Test1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4691B46C19F25B42001007DB"
-            BuildableName = "HellloWorld.app"
-            BlueprintName = "HellloWorld"
-            ReferencedContainer = "container:HellloWorld.xcodeproj">
+            BlueprintIdentifier = "4698C62419FB7ED400CB9C83"
+            BuildableName = "Test1.app"
+            BlueprintName = "Test1"
+            ReferencedContainer = "container:Test1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4691B46C19F25B42001007DB"
-            BuildableName = "HellloWorld.app"
-            BlueprintName = "HellloWorld"
-            ReferencedContainer = "container:HellloWorld.xcodeproj">
+            BlueprintIdentifier = "4698C62419FB7ED400CB9C83"
+            BuildableName = "Test1.app"
+            BlueprintName = "Test1"
+            ReferencedContainer = "container:Test1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
